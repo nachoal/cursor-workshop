@@ -9,6 +9,10 @@
 
 Participants need access to https://www.cursor.com/ along with an OpenAI or Anthropic API key. (It would be better if you get the PRO plan on cursor to save costs.)
 
+## Workshop Handout
+
+For detailed information and reference materials discussed in the presentation, please see the [Workshop Handout](handout.md).
+
 ## Prerequisites (Optional)
 
 ### LLMs
