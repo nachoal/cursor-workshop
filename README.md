@@ -1,4 +1,4 @@
-# LLMs for the Working Programmer
+# Tips for Al Augmented web dev with cursor
 
 ## Workshop Details
 
