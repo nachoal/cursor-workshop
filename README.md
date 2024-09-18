@@ -16,16 +16,19 @@ For detailed information and reference materials discussed in the presentation, 
 ## Prerequisites (Optional)
 
 ### LLMs
+
 - Broad knowledge of how LLMs work (no need for deep technical details)
 - Understanding of transformer attention, particularly autoregression
 - Familiarity with tokens and context window size
 - Knowledge of RLHF instruct vs "pure" completion models, and function calls encoding
 
 ### Programming
+
 - DSL design pattern (knowledge of Common Lisp or Ruby is beneficial)
 - Explore Simon Willison's resources on programming with LLMs: [simonwillison.net](https://simonwillison.net/)
 
 ### Recommended Reading
+
 - "Computational Logic and Human Thinking" by Robert Kowalski
-- https://the.scapegoat.dev/llms-will-fundamentally-change-software-engineering/
-- https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged
+- [LLMs Will Fundamentally Change Software Engineering](https://the.scapegoat.dev/llms-will-fundamentally-change-software-engineering/)
+- [Centaurs and Cyborgs on the Jagged Frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
